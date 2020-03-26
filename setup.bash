@@ -1,4 +1,5 @@
 #! /bin/bash -xve
+#Written by S. Togo
 
 exec 2> /tmp/setup.log
 
